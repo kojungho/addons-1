@@ -20,6 +20,8 @@ map:
   - share
 options:
   logins: []
+    - username: 
+    password: 
   require_certificate: false
   certfile: fullchain.pem
   keyfile: privkey.pem
