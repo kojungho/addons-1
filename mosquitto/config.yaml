@@ -20,8 +20,8 @@ map:
   - share
 options:
   logins: []
-    - username: 
-    password: 
+    - username: ***EW11 ID
+    password: ***EW11 PW
   require_certificate: false
   certfile: fullchain.pem
   keyfile: privkey.pem
